@@ -3,3 +3,5 @@ Source code for the examples in my Udemy course "Learn Multithreading with Moder
 This course is also available as an e-book: https://books2read.com/u/bOz5MW
 
 and also in hardback and paperback: https://www.amazon.com/dp/B0BN62H6SS
+
+This forked version contains my notes from the course.
